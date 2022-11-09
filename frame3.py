@@ -1,0 +1,18 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[ ]:
+
+
+a = input("nhap ten: ")
+
+print("hello, I stand here from afternoon!", a)
+input('Press ENTER to exit') 
+
+
+# In[ ]:
+
+
+print(123456789)
+input("one more")
+
