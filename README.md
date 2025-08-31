@@ -6,15 +6,15 @@
 - 🎯 Goal: Become a strong developer with hands-on projects
 
 ## 🚀 My Projects
-- [Web Scraping](https://github.com/pen123/web_scraping)  
-- [Security Basics](https://github.com/pen123/security-basics)  
-- [Programming Foundations](https://github.com/pen123/programming-foundations)  
-- [Excel Office Skills](https://github.com/pen123/excel-office-skills)
+- [Web Scraping](https://github.com/foxwithcode/web_scraping)  
+- [Security Basics](https://github.com/foxwithcode/security-basics)  
+- [Programming Foundations](https://github.com/foxwithcode/programming-foundations)  
+- [Excel Office Skills](https://github.com/foxwithcode/excel-office-skills)
 
 ## 📊 GitHub Stats
-![Pen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pen123&show_icons=true&theme=radical)
+![Pen's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxwithcode&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pen123&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxwithcode&layout=compact)
 
 ## 🌐 Connect with Me
 [LinkedIn](https://linkedin.com/in/yourname) | [Portfolio](https://yourportfolio.com) | [Email](mailto:yourmail@example.com)
