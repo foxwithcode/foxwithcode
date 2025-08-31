@@ -48,5 +48,5 @@ Here are some of my highlighted projects:
 ---
 
 ## 🎥 Demo
-[![Watch the video](https://img.youtube.com/vi/<video_id>/0.jpg)](https://www.youtube.com/watch?v=o64JB0rip60)
+[![Watch the video](https://img.youtube.com/vi/o64JB0rip60/0.jpg)](https://www.youtube.com/watch?v=o64JB0rip60)
 
