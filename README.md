@@ -44,3 +44,9 @@ Here are some of my highlighted projects:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)  
+
+---
+
+## 🎥 Demo
+[![Watch the video](https://img.youtube.com/vi/<video_id>/0.jpg)](https://www.youtube.com/watch?v=o64JB0rip60)
+
