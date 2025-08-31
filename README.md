@@ -15,7 +15,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=foxwithcode&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxwithcode&layout=compact
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pen123&layout=compact)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pen123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
